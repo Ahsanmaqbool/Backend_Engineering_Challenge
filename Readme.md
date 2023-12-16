@@ -15,8 +15,8 @@ This guide provides the basic introduction on how to run the **Flask Application
 1. **Clone the Repository:**
 
     ```bash
-    https://github.com/
-    cd 
+    [https://github.com/](https://github.com/Ahsanmaqbool/Backend_Engineering_Challenge.git)
+    cd Backend_Engineering_Challenge
     ```
 
 2. **Create and Activate Virtual Environment:**
