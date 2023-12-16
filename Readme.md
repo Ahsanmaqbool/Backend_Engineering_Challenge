@@ -63,7 +63,7 @@ This guide provides the basic introduction on how to run the **Flask Application
 
 6. **Testing of USER through Postman API:**
     
-    For registering the user in the database through Postman hit the POST to `http://127.0.0.1:5000/register`, send the username and password in throgh JSON format by the Postman as the flask application starts as by default 5000 port and hit the **POST**, after successful registration of the user you can see the access token and the hash password and username in the MySQL Database.
+    For registering the user in the database through Postman hit the **POST** to `http://127.0.0.1:5000/register`, send the username and password in throgh **JSON** format by the Postman as the flask application starts as by default 5000 port and hit the **POST**, after successful registration of the user you can see the access token and the hash password and username in the MySQL Database.
     ```
     {
         "username": "ahsan",
