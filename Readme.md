@@ -32,9 +32,9 @@ This guide provides the basic introduction on how to run the **Flask Application
 
     ```
     bash
-    python3.8 -m venv virtualenv
-    source virtualenv/bin/activate  
-    # On Windows, use `virtualenv\Scripts\activate`
+    python3.8 -m venv env
+    source env/bin/activate  
+    # On Windows, use `env\Scripts\activate`
     ```
 
 3. **Install Dependencies:**
